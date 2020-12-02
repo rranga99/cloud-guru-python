@@ -13,6 +13,6 @@ First, install pipenv. Then:
 '''
 
 pipenv install
-pipenv run "python meteors/find-meteors.py"
+pipenv run python meteors/find-meteors.py
 
 '''
